@@ -1,0 +1,10 @@
+fuction Cerrarvetana()
+{
+ if{
+
+}
+else {
+
+}
+
+}
